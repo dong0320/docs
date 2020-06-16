@@ -8,7 +8,7 @@ weight: 1
 
 通过快速开始的All in One安装或安装部署章节搭建开源版OneCloud环境时，控制节点都会安装climc，可直接跳过安装climc章节直接查看使用climc章节。
 
-下面介绍如何在非控制节点的机器上安装climc，机器操作系统要求为CentOS。
+下面介绍如何在非控制节点上安装climc。
 
 ## 安装
 
